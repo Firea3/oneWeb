@@ -1,4 +1,4 @@
-.venv
-node_modules
-.wrangler
+.venv/
+node_modules/
+.wrangler/
 tsconfig.json
